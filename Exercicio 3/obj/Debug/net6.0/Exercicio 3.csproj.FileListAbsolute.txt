@@ -1,0 +1,15 @@
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\bin\Debug\net6.0\Exercicio 3.exe
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\bin\Debug\net6.0\Exercicio 3.deps.json
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\bin\Debug\net6.0\Exercicio 3.runtimeconfig.json
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\bin\Debug\net6.0\Exercicio 3.dll
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\bin\Debug\net6.0\Exercicio 3.pdb
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\obj\Debug\net6.0\Exercicio 3.csproj.AssemblyReference.cache
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\obj\Debug\net6.0\Exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\obj\Debug\net6.0\Exercicio 3.AssemblyInfoInputs.cache
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\obj\Debug\net6.0\Exercicio 3.AssemblyInfo.cs
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\obj\Debug\net6.0\Exercicio 3.csproj.CoreCompileInputs.cache
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\obj\Debug\net6.0\Exercicio 3.dll
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\obj\Debug\net6.0\refint\Exercicio 3.dll
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\obj\Debug\net6.0\Exercicio 3.pdb
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\obj\Debug\net6.0\Exercicio 3.genruntimeconfig.cache
+D:\Pastas do Sistema\Documentos\Programação\C# Projects\Exercicio 3\obj\Debug\net6.0\ref\Exercicio 3.dll
